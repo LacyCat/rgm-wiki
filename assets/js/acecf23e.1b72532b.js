@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrgm_wiki=self.webpackChunkrgm_wiki||[]).push([[1903],{1912:i=>{i.exports=JSON.parse('{"blogBasePath":"/rgm-wiki/blog","blogTitle":"Blog","authorsListPath":"/rgm-wiki/blog/authors"}')}}]);
